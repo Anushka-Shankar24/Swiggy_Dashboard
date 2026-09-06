@@ -94,7 +94,7 @@ Through this project, I gained practical experience in:
 
 ## 📸 Dashboard Preview
 
-_Dashboard.png
+_Dashboard.png.jpeg
 _
 
 ## 👩‍💻 Author
